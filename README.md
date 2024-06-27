@@ -7,4 +7,4 @@ is a Landing page about NFTs.
 - HTML
 - Tailwind CSS
 
-[Page](./screen_app.png)
+![Page](./screen_app.png)
